@@ -8,6 +8,7 @@ public class W10CicdWithGithubActionApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(W10CicdWithGithubActionApplication.class, args);
+        System.out.println("Hello World");
     }
 
 }
